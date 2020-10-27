@@ -5,8 +5,5 @@
 ## Agile Manifesto
 
 * [Agile Values](agile-manifesto/agile-manifesto.md)
-
----
-
-* [Agile Principles](agile-principles.md)
+* [Agile Principles](agile-manifesto/agile-principles.md)
 
