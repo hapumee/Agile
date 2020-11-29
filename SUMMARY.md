@@ -7,3 +7,7 @@
 * [Agile Values](agile-manifesto/agile-manifesto.md)
 * [Agile Principles](agile-manifesto/agile-principles.md)
 
+## Scrum
+
+* [Scrum](scrum/scrum-detail.md)
+
