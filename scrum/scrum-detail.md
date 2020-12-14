@@ -1,8 +1,8 @@
 ---
 description: >-
   스크럼(Scrum)은 "팀이 함께 작업"하는 데 도움이 되는 프레임워크로, 팀 스스로가 경험을 통해 배우고 문제를 해결하면서 지속해서 개선할
-  수 있도록 도움을 준다. 스크럼은 가장 보편적인 애자일 접근 방법인데, 이 스크럼 규칙을 습득하는 것은 매우 직관적이고 쉽다. (그러나
-  스크럼을 효과적으로 사용하기는 쉽지 않다.)
+  수 있도록 도움을 준다. 스크럼은 가장 보편적인 애자일 접근 방법으로 스크럼의 규칙을 습득하는 것은 매우 직관적이고 쉽다. (그러나 스크럼을
+  효과적으로 사용하기는 쉽지 않다.)
 ---
 
 # Scrum
@@ -22,17 +22,17 @@ description: >-
 
 스크럼을 구성하는 요소들은 아래와 같다. 
 
-* Scrum Events
+* **Scrum Events**
   * sprints
   * sprint planning meeting
   * daily scrum
   * sprint review
   * sprint retrospective
-* Scrum Roles
+* \*\*\*\*[**Scrum Roles**](scrum-roles.md)\*\*\*\*
   * development team
   * product owner
   * scrum master
-* Scrum Artifacts
+* **Scrum Artifacts**
   * product backlog
   * sprint backlog
   * definition of "done"

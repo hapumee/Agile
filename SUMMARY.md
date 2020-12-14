@@ -10,4 +10,5 @@
 ## Scrum
 
 * [Scrum](scrum/scrum-detail.md)
+* [- Scrum Roles](scrum/scrum-roles.md)
 
