@@ -4,7 +4,7 @@ description: >-
   Scrum Master (스크럼 마스터)
 ---
 
-# - Scrum Roles
+# Scrum Roles
 
 #### Development Team \(개발팀\)
 

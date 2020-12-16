@@ -9,6 +9,6 @@
 
 ## Scrum
 
-* [Scrum](scrum/scrum-detail.md)
-* [- Scrum Roles](scrum/scrum-roles.md)
+* [Scrum](scrum/scrum-detail/README.md)
+  * [Scrum Roles](scrum/scrum-detail/scrum-roles.md)
 
