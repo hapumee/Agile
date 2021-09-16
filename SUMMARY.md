@@ -10,5 +10,6 @@
 ## Scrum
 
 * [Scrum](scrum/scrum-detail/README.md)
+  * [Scrum Events](scrum/scrum-detail/scrum-events.md)
   * [Scrum Roles](scrum/scrum-detail/scrum-roles.md)
 

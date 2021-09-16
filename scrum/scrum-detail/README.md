@@ -22,16 +22,16 @@ description: >-
 
 스크럼을 구성하는 요소들은 아래와 같다. 
 
-* **Scrum Events**
+* \*\*\*\*[**Scrum Events**](scrum-events.md)\*\*\*\*
   * sprints
   * sprint planning meeting
   * daily scrum
   * sprint review
   * sprint retrospective
 * \*\*\*\*[**Scrum Roles**](scrum-roles.md)\*\*\*\*
-  * development team
-  * product owner
-  * scrum master
+  * Development Team
+  * Product Owner
+  * Scrum Master
 * **Scrum Artifacts**
   * product backlog
   * sprint backlog
