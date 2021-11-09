@@ -9,26 +9,26 @@ description: >-
 
 ### Scrum Pillars
 
-스크럼의 근간이 되는 세 가지 개념이 있다. 
+스크럼의 근간이 되는 세 가지 개념이 있다.&#x20;
 
-* **Transparency \(투명성\)**
+* **Transparency (투명성)**
   * 투명성이 결과를 담당하는 사람들에게 **가시성**을 제공하는 것을 말한다. '기능의 완료 상태는 어떤 상태인가' 에 대한 정의를 모든 이해관계자들이 이해하고 합의할 수 있도록 하는 것도 투명성의 예로 들 수 있다.
-* **Inspection \(점검\)**
+* **Inspection (점검)**
   * 점검이란 프로젝트가 목표를 향해 얼마나 잘 진행되고 있는지 **제 때** **확인**하고 문제가 있는 지점 또는 목표와의 차이점을 찾는 것이다.
-* **Adaptation \(적용\)**
-  * 적용이란 점검\(Inspection\) 시에 문제나 바람직하지 않은 추세가 발견될 때 그 문제를 최소화하기 위해 **프로세스를 조정**하는 작업이다.
+* **Adaptation (적용)**
+  * 적용이란 점검(Inspection) 시에 문제나 바람직하지 않은 추세가 발견될 때 그 문제를 최소화하기 위해 **프로세스를 조정**하는 작업이다.
 
 ### Scrum Methodology
 
-스크럼을 구성하는 요소들은 아래와 같다. 
+스크럼을 구성하는 요소들은 아래와 같다.&#x20;
 
-* \*\*\*\*[**Scrum Events**](scrum-events.md)\*\*\*\*
+* ****[**Scrum Events**](broken-reference)****
   * sprints
   * sprint planning meeting
   * daily scrum
   * sprint review
   * sprint retrospective
-* \*\*\*\*[**Scrum Roles**](scrum-roles.md)\*\*\*\*
+* ****[**Scrum Roles**](scrum-roles.md)****
   * Development Team
   * Product Owner
   * Scrum Master
@@ -36,4 +36,3 @@ description: >-
   * product backlog
   * sprint backlog
   * definition of "done"
-
