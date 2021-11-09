@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Agile?](README.md)
+* [The Agile Manifesto](README.md)
 
 ## Agile Manifesto
 
@@ -12,4 +12,3 @@
 * [Scrum](scrum/scrum-detail/README.md)
   * [Scrum Events](scrum/scrum-detail/scrum-events.md)
   * [Scrum Roles](scrum/scrum-detail/scrum-roles.md)
-
