@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Agile Manifesto](README.md)
+* [What is Agile?](README.md)
 
 ## Agile Manifesto
 
