@@ -4,9 +4,9 @@ description: Agile Values 는 소프트웨어 개발에 더 나은 방법을 제
 
 # Agile Values
 
-&#x20;   **Agile Manifesto **에서 강조하는 것은 기존의 어떠한 개념들이 가치가 없다거나 할 필요가 없다는 것이 아니라 Agile 에서 말하고자 하는 개념들에 **더 가치를 둔다**는 것을 의미한다.
+&#x20;   **Agile Manifesto** 에서 강조하는 것은 기존의 어떠한 개념들이 가치가 없다거나 할 필요가 없다는 것이 아니라 Agile 에서 말하고자 하는 개념들에 **더 가치를 둔다**는 것을 의미한다.
 
-&#x20;  Agile 의 네 가지 value 중 "Individuals and interactions over processes and tools" 라는 개념이 있다. Agile 에서 말하고자 하는 것은 왼쪽편(processes and tools)이 가치가 없는 것이 아니고 오른쪽편(Individuals and interactions)이 더 가치가 있다는 것이다. 즉, 프로세스나 툴은 _전혀 사용하지 않고_ 개인과 개인들 상호작용 중요하게 생각한다는 의미가 아니다. 프로세스의 정립이나 툴의 사용도 요에 따라 적절히 사용해야 하지 개개인과 개인간의 호 작용을 **더 가치있게 **생각한다는 개념이다.
+&#x20;  Agile 의 네 가지 value 중 "Individuals and interactions over processes and tools" 라는 개념이 있다. Agile 에서 말하고자 하는 것은 왼쪽편(processes and tools)이 가치가 없는 것이 아니고 오른쪽편(Individuals and interactions)이 더 가치가 있다는 것이다. 즉, 프로세스나 툴은 _전혀 사용하지 않고_ 개인과 개인들 상호작용 중요하게 생각한다는 의미가 아니다. 프로세스의 정립이나 툴의 사용도 필요에 따라 적절히 사용해야 하지만 개개인과 개인간의 상호 작용을 **더 가치있게** 생각한다는 개념이다.
 
 &#x20;  앞 문장들이 중복되는 이야기인 듯 한데 몇 차례 이야기한 이유는 아래와 같이 물으시는 분들이 많다.
 
@@ -22,7 +22,7 @@ description: Agile Values 는 소프트웨어 개발에 더 나은 방법을 제
 
 ## Working software over comprehensive documentation
 
-문서보다는 **동작하는 소프트웨어**에 더 가치를 둔다. 소프트웨어에 대해서 기능을 정의하는 등의 문서는 두 사람이 같은 페이지를 읽고 있다 하더라도 각자 다르게 이해할 수도 있다. 소프트웨어가 어떻게 동작할 지 가늠할 수 있는 가장 효과적인 방법 바로 '_실제로 그것을 사용해 보는 것' _이다.
+문서보다는 **동작하는 소프트웨어**에 더 가치를 둔다. 소프트웨어에 대해서 기능을 정의하는 등의 문서는 두 사람이 같은 페이지를 읽고 있다 하더라도 각자 다르게 이해할 수도 있다. 소프트웨어가 어떻게 동작할 지 가늠할 수 있는 가장 효과적인 방법 바로 '_실제로 그것을 사용해 보는 것'_ 이다.
 
 ## Customer collaboration over contract negotiation
 
