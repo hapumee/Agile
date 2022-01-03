@@ -11,3 +11,4 @@
 
 * [Scrum](scrum/scrum-detail/README.md)
   * [Scrum Roles](scrum/scrum-detail/scrum-roles.md)
+  * [Definition of Done](scrum/scrum-detail/definition-of-done.md)
